@@ -33,7 +33,8 @@ Output
 1
 -1 
 
-Submission link : https://codeforces.com/contest/1560/submission/355191015*/
+Submission link : https://codeforces.com/contest/1560/submission/355191015
+*/
 
 #include<bits/stdc++.h>
 #include<array>
