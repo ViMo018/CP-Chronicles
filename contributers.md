@@ -18,6 +18,7 @@
 | Kushagra Raghuvanshi    | Taskmaster-afk         | IIIT Allahabad                  |
 | Kamakshi Gupta          | 29kamakshigupta        | IIIT Allahabad                  |
 | Pranshu Sethi           | iampranshusethi        | IIIT Allahabad                  |
+| Saurav Gitte            | SauravGitte            | IIIT Allahabad                  |
  <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty | Reyansh College | -->
 
