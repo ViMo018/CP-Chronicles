@@ -15,7 +15,6 @@
 | Omdeep                 | omicoded19              | IIIT Allahabad                                                   |
 | Beesa Manish           | MANISH-BEESA            | MLRIT                                                            |
 | Himansh Arora          | Humanshere              | IIIT Allahabad                                                   |
-| Kushagra Raghuvanshi   | Taskmaster-afk          | IIIT Allahabad                                                   |
 | Kamakshi Gupta         | 29kamakshigupta         | IIIT Allahabad                                                   |
 | Pranshu Sethi          | iampranshusethi         | IIIT Allahabad                                                   |
 | Abhay Pratap Singh     | d2-e2-v2                | IIIT Allahabad                                                   |
@@ -53,7 +52,8 @@
 | Lakshmish            | Coldesy             | IIIT Allahabad 
 |Priyanshu Ranjan        | justpriyanshu            | BIT Mesra
 | Vrajkumar Shah        | vraj826                   | DDU, Nadiad
-| Atharva Mehta          | Atharva-insane           |  IIIT Allahabad                                                  | 
+| Atharva Mehta          | Atharva-insane           |  IIIT Allahabad                                                  |                                               
+| Kushagra Raghuvanshi   | Taskmaster-afk          | IIIT Allahabad                                                   |                                                | 
 | Apoorv Mittal          | Apoorv012                |  JIIT Noida                                                  |                                               
 |Aman Kumar Mehta       |AmanMehta22                |Amity University Jharkhand                                         |                                                                                             |     
 | Naman Pal              | Naman2251                | IIIT Allahabad
