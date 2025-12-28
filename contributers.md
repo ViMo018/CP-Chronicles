@@ -72,5 +72,6 @@
 | Thanusha Nallabelli   | thanusha17     | IIIT Allahabad   | 
 |Aman Sharma |          | amansharma264  |Sir M Visvesvaraya Institute of Technology                                  |
 | Aaryan Degama  |  Aaryan-Degama  |  IIIT Allahabad                                                                  |
+| Sachin Benakannavar | sachinbenakannavar696 | IIIT Allahabad |
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty | Reyansh College | -->
